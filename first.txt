@@ -1,2 +1,8 @@
 aedr
 sf
+adc
+zv
+g
+rr
+s
+
